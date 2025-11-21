@@ -8,15 +8,7 @@ Building digital solutions that drive business growth through custom web develop
 
 - **Web Development**: Custom websites and web applications
 - **AI Automation**: Streamline workflows with AI-powered solutions
-- **E-commerce**: Online stores built for conversion
 - **API Integration**: Connect your tools and systems seamlessly
-
-## 🛠️ Tech Stack
-
-**Frontend**: React, Next.js, HTML/CSS, Tailwind  
-**Backend**: Node.js, Python, Ruby on Rails  
-**AI/ML**: OpenAI, Google Gemini, Claude  
-**Blockchain**: Solidity, Base (Ethereum L2)
 
 ## 📍 Based In
 
@@ -29,4 +21,4 @@ St. Gallen, Switzerland
 
 ---
 
-*Transforming ideas into scalable digital products.*
+*Effort has never been this easy.*
